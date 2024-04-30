@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "social-app-client",
+    "social-app-server",
+]
